@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 198696848900420082}
   - component: {fileID: 199934834234751708}
   m_Layer: 0
-  m_Name: WaterFall
+  m_Name: WaterFall 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25,14 +25,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1032618985213350}
-  m_LocalRotation: {x: -0.8152518, y: -0, z: -0, w: 0.5791066}
+  m_LocalRotation: {x: 0.9848078, y: -0, z: -0, w: -0.17364809}
   m_LocalPosition: {x: -5.18, y: 16.356, z: -11.593}
   m_LocalScale: {x: 0.95698833, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -109.225, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 200, y: 0, z: 0}
 --- !u!198 &198696848900420082
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -116,7 +116,7 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1.5
+      scalar: 3
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -169,7 +169,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 10
       minScalar: 5
       maxCurve:
         serializedVersion: 2
