@@ -8,8 +8,8 @@ I used Breadth First Search Algorithm in this game. Basically breadth first sear
 - Every time player kills an enemy player gets 25 gold.
 - If the enemy reaches the player castle (blue). The player loses 25 gold.
 - Everytime the enemy is killed, enemy gains 2 more health.
-
 ### This is just a core concept and gameplay of the game. The future game design and gameplay will be added.
+# Screenshots
 ![image](https://user-images.githubusercontent.com/45359225/189524754-e7f5bca1-8f37-4ebd-a716-fef2a027550d.png)
 ![image](https://user-images.githubusercontent.com/45359225/189524760-be3ee16e-0ba5-4a61-9ebc-67667b275aad.png)
 ![image](https://user-images.githubusercontent.com/45359225/189524861-89f2547d-ae69-44b2-be88-5f6ad4385e9c.png)
